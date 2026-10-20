@@ -533,6 +533,7 @@
 | **雨果跨境** | 综合跨境资讯 | [官网](https://www.cifnews.com) |
 | **亿邦动力** | 电商行业深度 | [官网](https://www.ebrun.com) |
 | **跨境眼** | 跨境电商资讯 | [官网](https://www.kuajingyan.com) |
+| **China Abroad Guide 企业出境通** | 出海合规、香港公司/银行开户、跨境收款对比 | [官网](https://chinaabroadguide.com) |
 | **36氪出海** | 出海创业资讯 | [官网](https://36kr.com/chuhai) |
 | **白鲸出海** | 出海产品资讯 | [官网](https://www.baijingapp.com) |
 | **Marketplace Pulse** | 英文电商分析 | [官网](https://www.marketplacepulse.com) |
